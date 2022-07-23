@@ -1,7 +1,8 @@
-import 'package:app_calculator/screens/widget/coustom_row.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+
+import '../widget/coustom_row.dart';
 
 class HomeCalculator extends StatefulWidget {
   const HomeCalculator({Key? key}) : super(key: key);
